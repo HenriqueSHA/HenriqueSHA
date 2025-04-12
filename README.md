@@ -4,7 +4,7 @@
 ☛ 🤝 My name is <a href="https://www.linkedin.com/in/henriquealbergaria/">Henrique Albergaria Santos</a><br>
 ☛ 🇧🇷 I am Brazilian, born in <a href= "https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.html">Salvador</a>, Bahia 🌊<br>
 ☛ 📫 You can reach me at <a href="mailto:henriquedevx@gmail.com">henriquedevx@gmail.com</a><br>
-☛ 💼 Currently working at <a href="https://www.radixeng.com">Scientific researcher</a><br>
+☛ 💼 Currently working at <a href="https://sites.google.com/view/jsmnet/home/undergraduate-research-inicia%C3%A7%C3%A3o-cient%C3%ADfica-ic?authuser=0">Scientific researcher</a><br>
 
 
 <h3 align="left">Languages and Tools:</h3>
