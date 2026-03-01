@@ -37,3 +37,12 @@
 </div>
 
 ###
+<h2 align="left">I code with</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Web3-3B82F6?style=for-the-badge&logo=web3.dot.js&logoColor=white"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black"/>
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+</div>
