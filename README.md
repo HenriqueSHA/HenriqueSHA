@@ -87,7 +87,6 @@ calma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.simpleicons.org/apple/white" height="40" alt="macOS" />
-  <img width="50" height="45" alt="image" src="https://github.com/user-attachments/assets/61f48e1e-84b0-4dcf-8bec-ae7f084263f1" />
+  <img src="https://cdn.simpleicons.org/apple/white" height="40" alt="macOS" /><img src="https://cdn.simpleicons.org/macos/white" height="40" alt="macOS Finder glyph" />
 
 </div>
