@@ -44,11 +44,11 @@ calma
 <div align="left">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=web3.dot.js&logoColor=white" alt="Web3"/>
+  <img src="https://img.shields.io/badge/Web3-3B82F6?style=for-the-badge&logo=web3.dot.js&logoColor=white"/>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain"/>
+  <img src="https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black"/>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </div>
 
 <br>
@@ -59,11 +59,12 @@ calma
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
 </div>
 
 <br>
@@ -72,11 +73,11 @@ calma
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="githubactions" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
 </div>
 
 <br>
