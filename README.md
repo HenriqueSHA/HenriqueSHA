@@ -42,13 +42,13 @@ calma
 
 **🌐 Web3 & Blockchain**
 <div align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://cdn.simpleicons.org/rust/F46623" height="40" alt="rust" />
+  <img src="https://cdn.simpleicons.org/solana/14F195" height="40" alt="solana" />
+  <img width="12" />
+  <img width="12" /><img src="https://cdn.simpleicons.org/ethereum/627EEA" height="40" alt="ethereum" />
   <img width="12" />
   <img src="https://img.shields.io/badge/Web3-3B82F6?style=for-the-badge&logo=web3.dot.js&logoColor=white"/>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Blockchain-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black"/>
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </div>
 
 <br>
@@ -87,6 +87,4 @@ calma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img src="https://cdn.simpleicons.org/apple/white" height="40" alt="macOS" /><img src="https://cdn.simpleicons.org/macos/white" height="40" alt="macOS Finder glyph" />
-
 </div>
