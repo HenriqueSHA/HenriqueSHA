@@ -4,7 +4,8 @@
 
 ☛ 🤝 My name is <a href="https://www.linkedin.com/in/henriquealbergaria/">Henrique Albergaria Santos</a><br>
 ☛ 🇧🇷 I am Brazilian, born in <a href="https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.html">Salvador</a>, Bahia 🌊<br>
-
+☛ 🛠️ <a> DevOps & Web3 Engineer | B.S. in Software Engineering & Systems Analysis and Development.
+</a><br>
 ###
 
 <h2 align="left">About me</h2>
