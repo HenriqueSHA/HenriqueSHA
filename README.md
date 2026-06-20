@@ -1,20 +1,23 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 ###
+<h1 align="left">Henrique Albergaria Santos</h1>
+<h3 align="left">DevOps & Web3 Engineer | B.S. in Software Engineering & Systems Analysis and Development</h3>
 
-☛ 🤝 My name is <a href="https://www.linkedin.com/in/henriquealbergaria/">Henrique Albergaria Santos</a><br>
-☛ 🇧🇷 I am Brazilian, born in <a href="https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.html">Salvador</a>, Bahia 🌊<br>
-☛ 🛠️ <a> DevOps & Web3 Engineer | B.S. in Software Engineering & Systems Analysis and Development.
-</a><br>
+🇧🇷 I am Brazilian, born in <a href="https://www.tripadvisor.com/Attractions-g303272-Activities-Salvador_State_of_Bahia.html">Salvador</a>, Bahia 🌊<br>
+
+<p align="left">
+  Specialist in decentralized ecosystems, high-performance infrastructure, and IoT integration. Operating at the intersection of academic research and software engineering to build scalable solutions.
+</p>
+
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-☛ 📫 You can reach me at <a href="mailto:henriquedevx@gmail.com">henriquedevx@gmail.com</a><br>
-☛ 💼 Currently working as a <a href="https://sites.google.com/view/jsmnet/home/undergraduate-research-inicia%C3%A7%C3%A3o-cient%C3%ADfica-ic?authuser=0">Scientific Researcher</a><br>
-☛ ⛓️ Specializing in the Solana network as a <a href="https://solana.com/pt">Blockchain Developer</a><br> 
+☛ 🔬 Scientific Researcher: IoT-based crowdsensing and water resource management.<br>
+☛ ⛓️ Smart Contract Development and Auditing on the Solana network.<br>
+☛ ☁️ Infrastructure architecture, automation, and Edge Computing.<br>
+☛ 📫 Contact: <a href="mailto:henriquedevx@gmail.com">henriquedevx@gmail.com</a> | <a href="https://www.linkedin.com/in/henriquealbergaria/">LinkedIn</a>
 
 ###
 
