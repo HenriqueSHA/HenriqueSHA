@@ -14,10 +14,10 @@
 
 ###
 
-☛ 🔬 Scientific Researcher: IoT-based crowdsensing and water resource management.<br>
-☛ ⛓️ Smart Contract Development and Auditing on the Solana network.<br>
-☛ ☁️ Infrastructure architecture, automation, and Edge Computing.<br>
-☛ 📫 Contact: <a href="mailto:henriquedevx@gmail.com">henriquedevx@gmail.com</a> | <a href="https://www.linkedin.com/in/henriquealbergaria/">LinkedIn</a>
+* 🔬 Scientific Researcher: IoT-based crowdsensing and water resource management.<br>
+* ⛓️ Smart Contract Development and Auditing on the Solana network.<br>
+* ☁️ Infrastructure architecture, automation, and Edge Computing.<br>
+* 📫 Contact: <a href="mailto:henriquedevx@gmail.com">henriquedevx@gmail.com</a> | <a href="https://www.linkedin.com/in/henriquealbergaria/">LinkedIn</a>
 
 ###
 
